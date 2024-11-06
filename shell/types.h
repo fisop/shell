@@ -31,7 +31,7 @@ struct cmd {
  *
  *  - type: could be EXEC or REDIR
  *  - argc: arguments quantity after parsed
- *  - argv: array of strings representig the arguments
+ *  - argv: array of strings representing the arguments
  *          of the form: { "binary/command", "arg0", "arg1", ... , (char*) NULL }
  *  - eargc: environ vars quantity after parsed
  *  - eargv: array of strings of the form: "KEY=VALUE"
@@ -76,7 +76,7 @@ struct pipecmd {
  * -------
  *
  * It contains the same information as 'cmd' plus one more field containing the
- * command to be executed. Take a look to the parsing.c file for better understandig.
+ * command to be executed. Take a look to the parsing.c file for better understanding.
  *
  * Again, this extra field, can have type either EXEC or REDIR depending on
  * if the process to be executed in the background contains redirection symbols.
