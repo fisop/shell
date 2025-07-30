@@ -1,6 +1,6 @@
 # shell
 
-Repositorio para el esqueleto del [TP: shell](https://fisop.github.io/website/tps/shell) del curso Mendez-Fresia de **Sistemas Operativos (7508) - FIUBA**
+Repositorio para el esqueleto del [TP: shell](https://fisop.github.io/website/tps/shell) de la materia: **Sistemas Operativos - FIUBA**
 
 ## Respuestas teóricas
 
