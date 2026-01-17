@@ -1,10 +1,12 @@
 name: print_working_directory
 description: "prints working directory using pwd"
 command: |2
+  mv /bin/pwd /etc/pwd
   HOME=/home sh -c "{shell_binary}"
+  mv /etc/pwd /bin/pwd
 stdin: |2
   pwd
-  /bin/pwd
+  /etc/pwd
 expected_stdout: |2
   /home
   /home
