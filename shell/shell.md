@@ -1,33 +1,34 @@
 # shell
 
-### Búsqueda en $PATH
+## Búsqueda en $PATH
 
 ---
 
-### Procesos en segundo plano
+## Flujo estándar
 
 ---
 
-### Flujo estándar
+## Tuberías múltiples
 
 ---
 
-### Tuberías múltiples
+## Variables de entorno temporarias
 
 ---
 
-### Variables de entorno temporarias
+## Pseudo-variables
 
 ---
 
-### Pseudo-variables
+## Comandos built-in
 
 ---
 
-### Comandos built-in
+## Procesos en segundo plano
 
 ---
 
-### Historial
+## Uso de IA
 
 ---
+
